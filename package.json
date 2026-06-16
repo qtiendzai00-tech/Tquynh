@@ -1,0 +1,29 @@
+{
+  "name": "ultimate-machine",
+  "version": "3.0.0",
+  "description": "SIÊU BỘ MÁY DỰ ĐOÁN TÀI XỈU THẾ HỆ MỚI - 30+ ALGORITHMS | AI POWERED",
+  "main": "Scr.js",
+  "scripts": {
+    "start": "node Scr.js",
+    "dev": "nodemon Scr.js"
+  },
+  "keywords": [
+    "prediction",
+    "tai-xiu",
+    "ai",
+    "machine-learning",
+    "algorithm",
+    "express",
+    "ultimate-machine"
+  ],
+  "author": "@AnhKhoi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0",
+    "chart.js": "^4.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
